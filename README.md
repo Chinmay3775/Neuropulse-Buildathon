@@ -289,7 +289,7 @@ This project is provided as a research & prototype reference. Include your prefe
 
 ## Contact
 
-Chinmay / Chintu — add your contact email or GitHub profile for questions and collaboration.
+keripalechinmay@gmail.com
 
 ---
 
